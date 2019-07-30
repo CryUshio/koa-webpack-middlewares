@@ -1,0 +1,34 @@
+{
+  "name": "koa-webpack-middlewares",
+  "version": "1.0.0",
+  "description": "Packaging of webpack-dev-middleware and webpack-hot-middleware",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chym123/koa-webpack-middlewares.git"
+  },
+  "keywords": [
+    "koa",
+    "webpack-dev-middleware",
+    "webpack-hot-middleware",
+    "middleware",
+    "webpack",
+    "热更新"
+  ],
+  "author": "chym123 <chym123@vip.qq.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chym123/koa-webpack-middlewares/issues"
+  },
+  "homepage": "https://github.com/chym123/koa-webpack-middlewares#readme",
+  "dependencies": {
+    "webpack-dev-middleware": "^3.7.0",
+    "webpack-hot-middleware": "^2.25.0"
+  },
+  "devDependencies": {
+    "cross-env": "^5.2.0"
+  }
+}
